@@ -6,7 +6,7 @@
 Here is a very simple wireframe for my portfolio built using [FigJam](https://www.figma.com/file/m4qT6pQFJhMUwgO150SbAy/Portafolio-Website?node-id=0%3A1).
 <br>
 
-<p>The website will have four web pages: home, contact, blog, and projects. The website will use the same layout for all, sharing the same header and footer.</p>
+<p>The website will have four web pages: home, contact, blog, and projects. The website will use the same layout for all web pages, sharing the same header and footer.</p>
 
 
 <p>Downloaded public domain images from (https://free-images.com/) to use as mock up web site projects on the home page:</p>
