@@ -34,7 +34,7 @@ select {
   font: inherit;
 }
 
-/* Removed list styling 
+/* Removed list styling */
 ul, ol {
   list-style: none;
 } 
