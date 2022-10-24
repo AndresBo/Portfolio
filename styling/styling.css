@@ -109,7 +109,27 @@ footer {
   margin-top: 0;
 }
 
+.email-styling {
+  color: goldenrod;
+}
+
 .main-footer-header-paragraph {
   font-size: 14px;
   color: darkgray;
+}
+
+.footer-menu {
+  margin-top: 1rem;
+}
+
+.footer-menu-secondary-heading {
+  color: darkgrey;
+}
+
+.bottom-navigation-menu-ulist {
+  padding-inline-start: 1rem;
+}
+
+.github-styling {
+  color: white;
 }
