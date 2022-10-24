@@ -1,1 +1,35 @@
+body {
+  background-color: azure;
+  font-family: 'Be Vietnam Pro', sans-serif;
+  font-size: 16px;
+  margin: 0;
+  box-sizing: border-box;
+}
+header {
+  display: flex;
+  margin-bottom: 10rem;
+}
 
+.main-logo {
+  width: 30%;
+  margin-left: 1rem;
+  margin-right: 10%;
+}
+.main-logo-title {
+  margin-bottom: 0;
+}
+.main-logo-subtitle {
+  margin-top: 0;
+  font-size: 14px;
+  color: darkgray;
+}
+.header-blank-space {
+  width: 20%;
+}
+nav {
+  width: 50%;
+}
+nav ul {
+  display: flex;
+  list-style-type: none;
+}
