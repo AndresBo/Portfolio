@@ -1,9 +1,46 @@
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Remove default margin */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+figure,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+/* Make images easier to work with */
+img,
+picture {
+  width: 100%;
+  display: block;
+}
+
+/* Inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
 body {
+  min-height: 100vh;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
   background-color: azure;
   font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 16px;
-  margin: 0;
-  box-sizing: border-box;
 }
 
 /* header section */
@@ -27,10 +64,10 @@ header {
 .header-blank-space {
   width: 10%;
 }
-nav {
+.top-navigation-nav-menu {
   width: 60%;
 }
-nav ul {
+.top-navigation-nav-menu-ulist {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-end;
@@ -48,10 +85,6 @@ nav ul {
   color: goldenrod;
   font-size: 14px;
   margin-left: 1rem;
-}
-
-img {
-  width: 100%;
 }
 
 /* footer section */
