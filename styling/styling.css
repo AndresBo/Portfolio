@@ -58,7 +58,21 @@ img {
 footer {
   background-color: black;
   color: white;
-  padding-top: 1rem;
-  padding-left: 1rem;
-  padding-bottom: 1rem;
+  padding: 1rem;
+  
+}
+
+.main-footer-header {
+ font-size: 16px;
+ font-weight: 400;
+ margin-bottom: 0; 
+}
+
+.main-footer-header-subtitle {
+  margin-top: 0;
+}
+
+.main-footer-header-paragraph {
+  font-size: 14px;
+  color: darkgray;
 }
