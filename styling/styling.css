@@ -117,8 +117,30 @@ main {
 .section-header {
   display: flex;
   justify-content: space-between;
+  max-width: 1400px;
 }
 
+.section-header-primary-title {
+  font-size: 1rem;
+  font-weight: 500;
+  color: darkgrey;
+}
+
+.section-header-secondary-title {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.multi-project-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 1400px;
+  margin-bottom: 3rem;
+}
+
+.single-project-container {
+  margin-bottom: 2rem;
+}
 /* -- footer section -- */
 footer {
   background-color: black;
