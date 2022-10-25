@@ -1,3 +1,5 @@
+
+/* -- resets -- */
 /* Box sizing rules */
 *,
 *::before,
@@ -38,7 +40,7 @@ select {
 ul, ol {
   list-style: none;
 } 
-
+/* -- body style -- */
 body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
@@ -48,7 +50,7 @@ body {
   font-size: 16px;
 }
 
-/* header section */
+/* -- header section -- */
 header {
   display: flex;
   margin-bottom: 10rem;
@@ -91,7 +93,23 @@ header {
   margin-left: 1rem;
 }
 
-/* footer section */
+/* -- main section -- */
+.main-header {
+ font-size: 1.5rem; 
+ font-weight: 400;
+ margin-left: 1rem;
+ margin-right: 1rem;
+}
+
+.secondary-header {
+  font-size: 1.25rem;
+  font-weight: 500;
+  margin-top: 2rem;
+  margin-right: 1rem;
+  margin-left: 1rem;
+}
+
+/* -- footer section -- */
 footer {
   background-color: black;
   color: white;
