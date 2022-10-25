@@ -11,16 +11,11 @@ I'm not a designer. Design cues for my website were taken from the following web
 The website will have four web pages: **home**, **contact**, **blog**, and **projects**. The website will use the same layout for all web pages, sharing the same header and footer.
 
 ## Basic CSS design guidelines:
-### widths: 
-  - mobile: 375px
-  - desktop: 1440px 
-
-### Font size body: 16px
-
-### Font family: Be Vietnam Pro
+- Added some **resets** copied from (https://gist.github.com/Asjas/4b0736108d56197fce0ec9068145b421)
+- Font size body: 16px
+- Font family: Be Vietnam Pro
 https://fonts.google.com/specimen/Be+Vietnam+Pro?query=be+vietn
-
-weights: 400, 500, 700
+- weights: 400, 500, 700
 
 ## Image source
 <p>Downloaded public domain images from (https://free-images.com/) to use as mock up web site projects on the home page:</p>
