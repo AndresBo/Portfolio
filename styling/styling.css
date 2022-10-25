@@ -133,13 +133,16 @@ main {
 
 .multi-project-container {
   display: flex;
-  flex-direction: column;
+  flex-direction: grid;
+  flex-wrap: wrap;
+  gap: 2rem;
   max-width: 1400px;
   margin-bottom: 3rem;
 }
 
 .single-project-container {
   margin-bottom: 2rem;
+  max-width: 400px;
 }
 /* -- footer section -- */
 footer {
