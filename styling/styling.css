@@ -183,6 +183,9 @@ footer {
 .bottom-navigation-menu-ulist {
   padding-inline-start: 1rem;
 }
+.social-icons {
+ margin-bottom: 1rem;
+}
 
 .icon-styling {
   color: white;
