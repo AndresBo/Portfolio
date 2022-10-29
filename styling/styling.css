@@ -1,5 +1,5 @@
 
-/* -- resets -- */
+/* -- RESETS -- */
 /* Box sizing rules */
 *,
 *::before,
@@ -40,14 +40,15 @@ select {
 ul, ol {
   list-style: none;
 } 
-/* -- body style -- */
+
+/* -- BODY STYLING -- */
 body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
   background-color: azure;
   font-family: 'Be Vietnam Pro', sans-serif;
-  font-size: 16px;
+  font-size: 1.125rem;
 }
 
 /* -- header section -- */
@@ -65,7 +66,7 @@ header {
 }
 .main-logo-subtitle {
   margin-top: 0;
-  font-size: 14px;
+  font-size: 0.875rem;
   color: darkgray;
 }
 .header-blank-space {
@@ -83,13 +84,13 @@ header {
 }
 
 .nav-item {
-  font-size: 14px;
+  font-size: 0.875rem;
   margin-left: 1rem;
 }
 
 .nav-item-highlight {
   color: goldenrod;
-  font-size: 14px;
+  font-size: 0.875rem;
   margin-left: 1rem;
 }
 
@@ -154,7 +155,7 @@ footer {
 }
 
 .main-footer-header {
- font-size: 16px;
+ font-size: 0.875rem;
  font-weight: 400;
  margin-bottom: 0; 
 }
@@ -168,7 +169,7 @@ footer {
 }
 
 .main-footer-header-paragraph {
-  font-size: 14px;
+  font-size: 0.875rem;
   color: darkgray;
 }
 
