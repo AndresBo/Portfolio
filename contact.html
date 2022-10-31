@@ -11,6 +11,7 @@
     <title>Andres Borrero | Developer</title>
     <script src="https://kit.fontawesome.com/64c6d731a4.js" crossorigin="anonymous"></script>
 </head>
+
 <body>
   <header class="header-styling">
     <div class="main-logo">
@@ -46,15 +47,21 @@
     </section>
 
     <section>
-      <form>
+      <form action="" method="get" id="message-me-form">
         <div>
           <label for="user-email">Your email</label> 
-          <input type="email" name="user-email"> 
+          <input type="email" name="user-email-name" id="user-email-id"> 
+        </div>
+        
+        <div>
+          <label for="user-message">Message</label>
+          <textarea id="user-message" rows="6"></textarea>
         </div>
 
         <div>
-          <!-- space for message -->
+          <button>Submit</button>  
         </div>
+        
       </form>
     </section>
   </main>
@@ -101,7 +108,6 @@
         </li>
       </ul>
     </div> 
-    <div></div> 
   </footer>
     
 </body>
