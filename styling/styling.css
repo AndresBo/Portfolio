@@ -96,7 +96,7 @@ header {
   margin-left: 1rem;
 }
 
-/* -- main section -- */
+/* -- main section styling-- */
 main {
   margin-left: 1rem;
   margin-right: 1rem;
@@ -148,6 +148,13 @@ main {
   max-width: 400px;
 }
 
+/* form styling */
+
+.message-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 31.25rem;
+}
 /* -- footer section -- */
 footer {
   background-color: black;
