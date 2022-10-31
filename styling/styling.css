@@ -44,6 +44,8 @@ ul, ol {
 /* -- BODY STYLING -- */
 body {
   min-height: 100vh;
+  max-width: 1000px;
+  margin: auto;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
   background-color: azure;
