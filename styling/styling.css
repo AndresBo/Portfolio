@@ -159,11 +159,20 @@ main {
 .message-form__email {
   display: flex;
   flex-direction: column;
+  margin: 1rem 0;
+  row-gap: 0.25rem;
 }
 
 .message-form__textarea {
   display: flex;
   flex-direction: column;
+  margin: 1rem 0;
+  row-gap: 0.25rem;
+
+}
+
+.message-form__button {
+  margin-bottom: 1rem;
 }
 /* -- footer section -- */
 footer {
