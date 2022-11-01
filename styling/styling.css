@@ -96,7 +96,7 @@ header {
   margin-left: 1rem;
 }
 
-/* -- main section styling-- */
+/* -- home page section styling-- */
 main {
   margin-left: 1rem;
   margin-right: 1rem;
@@ -124,7 +124,7 @@ main {
 }
 
 .section-header-primary-title {
-  font-size: 1rem;
+  font-size: 1.25rem;
   font-weight: 500;
   color: darkgrey;
 }
@@ -146,6 +146,14 @@ main {
 .single-project-container {
   margin-bottom: 2rem;
   max-width: 400px;
+}
+
+.more-about {
+  margin-bottom: 3rem;
+}
+
+.more-about__paragraph {
+  margin: 1rem 0;
 }
 
 /* contact me form styling */
@@ -174,6 +182,7 @@ main {
 .message-form__button {
   margin-bottom: 1rem;
 }
+
 /* -- footer section -- */
 footer {
   background-color: black;
