@@ -96,7 +96,7 @@ header {
   margin-left: 1rem;
 }
 
-/* -- home page section styling-- */
+/* -- home page main section styling-- */
 main {
   margin-left: 1rem;
   margin-right: 1rem;
@@ -176,11 +176,36 @@ main {
   flex-direction: column;
   margin: 1rem 0;
   row-gap: 0.25rem;
-
 }
 
 .message-form__button {
   margin-bottom: 1rem;
+}
+
+/* blog menu section */
+
+.blogs {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+  margin-bottom: 3rem;
+}
+
+.blog {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+  border-bottom: 0.125rem solid darkgray;
+  padding: 2rem 0;
+}
+
+.blog__date {
+  color: darkgray;
+}
+
+.blog__header {
+  font-size: 1.25rem;
+  font-weight: 500; 
 }
 
 /* -- footer section -- */
