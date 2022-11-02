@@ -6,13 +6,13 @@ A personal portfolio website designed to present my skills and showcase my work.
 Here is a very simple wireframe for my portfolio built using [FigJam](https://www.figma.com/file/m4qT6pQFJhMUwgO150SbAy/Portafolio-Website?node-id=0%3A1).
 <br>
 
-I'm not a designer. Design cues for my website were taken from the following website:(https://web.archive.org/web/20190213060110/https://timmyomahony.com/)
+Design inspiration for my portfolio website were taken from the following website:(https://web.archive.org/web/20190213060110/https://timmyomahony.com/)
 
-The website will have four web pages: **home**, **contact**, **blog**, and **projects**. The website will use the same layout for all web pages, sharing the same header and footer.
+The website will have four main web pages: **home**, **contact**, **blog**, and **projects**. The website will use the same layout for all web pages, sharing the same header and footer.
 
 ## Basic CSS design guidelines:
 - Added some **resets** copied from (https://gist.github.com/Asjas/4b0736108d56197fce0ec9068145b421)
-- Font size body: 18px (1.125 rem) defined in the <body>
+- Font size body: 18px (1.125 rem) defined in the body.
 - Font family: Be Vietnam Pro
 https://fonts.google.com/specimen/Be+Vietnam+Pro?query=be+vietn
 - font weights used: 400, 500, 700
