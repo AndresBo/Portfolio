@@ -25,3 +25,5 @@ https://fonts.google.com/specimen/Be+Vietnam+Pro?query=be+vietn
 [mechanics_engine_spring_mechanic](https://free-images.com/display/mechanics_engine_springs_mechanic.html)
 
 [fast_food_car_restaurant](https://free-images.com/display/fast_food_car_restaurant.html)
+
+[newsletter_email](https://free-images.com/display/newsletter_email_e_mail.html)
