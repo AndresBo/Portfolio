@@ -12,7 +12,7 @@ The website will have four web pages: **home**, **contact**, **blog**, and **pro
 
 ## Basic CSS design guidelines:
 - Added some **resets** copied from (https://gist.github.com/Asjas/4b0736108d56197fce0ec9068145b421)
-- Font size body: 18px (1.125 rem)
+- Font size body: 18px (1.125 rem) defined in the <body>
 - Font family: Be Vietnam Pro
 https://fonts.google.com/specimen/Be+Vietnam+Pro?query=be+vietn
 - font weights used: 400, 500, 700
