@@ -217,6 +217,31 @@ main {
   text-decoration: none;
 }
 
+/* blog articles styling */
+
+.article-header {
+  display: flex;
+  flex-direction: column;
+  row-gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.article-header__title {
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.article-header__date {
+  color: darkgrey;
+}
+
+.article {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+  margin-bottom: 3rem;
+}
+
 /* -- footer section -- */
 footer {
   background-color: black;
