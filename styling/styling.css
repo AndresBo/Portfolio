@@ -1,5 +1,5 @@
 
-/* -- RESETS -- */
+/* RESETS */
 /* Box sizing rules */
 *,
 *::before,
@@ -41,7 +41,7 @@ ul, ol {
   list-style: none;
 } 
 
-/* -- BODY STYLING -- */
+/* BODY STYLING  */
 body {
   min-height: 100vh;
   max-width: 1000px;
@@ -53,7 +53,7 @@ body {
   font-size: 1.125rem;
 }
 
-/* -- HEADER -- */
+/* HEADER */
 header {
   display: flex;
   margin-bottom: 10rem;
@@ -96,7 +96,8 @@ header {
   margin-left: 1rem;
 }
 
-/* -- HOME PAGE MAIN-- */
+/* HOME PAGE MAIN (some styling shared across other pages: header */
+/* main section header */
 main {
   margin-left: 1rem;
   margin-right: 1rem;
@@ -133,7 +134,7 @@ main {
   font-size: 1rem;
   font-weight: 400;
 }
-
+/* home page project showcase */
 .multi-project-container {
   display: flex;
   flex-direction: grid;
@@ -242,7 +243,20 @@ main {
   margin-bottom: 3rem;
 }
 
-/* -- FOOTER -- */
+/* PROJECTS  */
+
+.project {
+  display: flex;
+  flex-direction: column;
+  row-gap: 3rem;
+  margin-bottom: 3rem;
+}
+
+.project__img {
+  border-radius: 1rem;
+}
+
+/* FOOTER */
 footer {
   background-color: black;
   color: white;
