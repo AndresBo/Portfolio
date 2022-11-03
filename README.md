@@ -28,3 +28,5 @@ https://fonts.google.com/specimen/Be+Vietnam+Pro?query=be+vietn
 [fast_food_car_restaurant](https://free-images.com/display/fast_food_car_restaurant.html)
 
 [newsletter_email](https://free-images.com/display/newsletter_email_e_mail.html)
+
+[anime_manga_comic](https://free-images.com/display/anime_manga_comic_kenkaneki.html)
