@@ -66,6 +66,12 @@ header {
 .main-logo-title {
   margin-bottom: 0;
 }
+
+.main-logo-title--styling {
+  text-decoration: none;
+  color: inherit; 
+}
+
 .main-logo-subtitle {
   margin-top: 0;
   font-size: 0.875rem;
@@ -148,7 +154,7 @@ main {
   margin-bottom: 2rem;
   max-width: 400px;
 }
-
+/* home page more about me */
 .more-about {
   margin-bottom: 3rem;
 }
