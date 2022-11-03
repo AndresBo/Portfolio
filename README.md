@@ -10,6 +10,9 @@ Design inspiration for my portfolio website were taken from the following websit
 
 The website will have four main web pages: **home**, **contact**, **blog**, and **projects**. The website will use the same layout for all web pages, sharing the same header and footer.
 
+## Sitemap ##
+![image](https://user-images.githubusercontent.com/85352176/199695636-a385c2ab-b0c7-4462-9a07-9db20fe83d22.png)
+
 ## Basic CSS design guidelines:
 - Added some **resets** copied from (https://gist.github.com/Asjas/4b0736108d56197fce0ec9068145b421)
 - Only one CSS file was used. In the future I would like to divide it using SCSS but at the moment I want to focus on learning vanilla CSS.
@@ -30,3 +33,27 @@ https://fonts.google.com/specimen/Be+Vietnam+Pro?query=be+vietn
 [newsletter_email](https://free-images.com/display/newsletter_email_e_mail.html)
 
 [anime_manga_comic](https://free-images.com/display/anime_manga_comic_kenkaneki.html)
+
+## Screenshots (mobile view) ##
+### Home page ###
+![Home page](https://user-images.githubusercontent.com/85352176/199693982-6639dd91-c150-47a2-9c1d-8b7c53e0696e.png) 
+
+
+### Contact me ###
+![image](https://user-images.githubusercontent.com/85352176/199696156-b4650afc-97ff-4691-b7af-3319f987d7c8.png)
+
+
+### Blog ###
+![image](https://user-images.githubusercontent.com/85352176/199696542-aec48636-a2bb-476e-af74-e89b2fe23837.png)
+
+
+### Projects ###
+![image](https://user-images.githubusercontent.com/85352176/199696784-1233dc28-473f-4788-b0d3-8defd02ff9d0.png)
+
+
+### Place holder blog post article ###
+![image](https://user-images.githubusercontent.com/85352176/199697028-66af5ce9-bd85-4096-8558-307715574b75.png)
+
+
+
+
