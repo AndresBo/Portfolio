@@ -6,12 +6,16 @@ A personal portfolio website designed using HTML and CSS to present my skills an
 Here is a very simple wireframe for my portfolio built using [FigJam](https://www.figma.com/file/m4qT6pQFJhMUwgO150SbAy/Portafolio-Website?node-id=0%3A1).
 <br>
 
+Here is the link to the github [repo](https://github.com/AndresBo/Portfolio).
+
 Design inspiration for my portfolio website were taken from the following website:(https://web.archive.org/web/20190213060110/https://timmyomahony.com/)
 
 The website will have four main web pages: **home**, **contact**, **blog**, and **projects**. The website will use the same layout for all web pages, sharing the same header and footer.
 
+
 ## Sitemap ##
 ![image](https://user-images.githubusercontent.com/85352176/199695636-a385c2ab-b0c7-4462-9a07-9db20fe83d22.png)
+
 
 ## Basic CSS design guidelines:
 - Added some **resets** copied from (https://gist.github.com/Asjas/4b0736108d56197fce0ec9068145b421)
@@ -20,6 +24,7 @@ The website will have four main web pages: **home**, **contact**, **blog**, and 
 - Font family: Be Vietnam Pro
 https://fonts.google.com/specimen/Be+Vietnam+Pro?query=be+vietn
 - font weights used: 400, 500, 700
+
 
 ## Image source
 <p>Downloaded public domain images from (https://free-images.com/) to use as mock up web site projects on the home page:</p>
@@ -34,7 +39,9 @@ https://fonts.google.com/specimen/Be+Vietnam+Pro?query=be+vietn
 
 [anime_manga_comic](https://free-images.com/display/anime_manga_comic_kenkaneki.html)
 
+
 ## Screenshots (mobile view) ##
+
 ### Home page ###
 ![Home page](https://user-images.githubusercontent.com/85352176/199693982-6639dd91-c150-47a2-9c1d-8b7c53e0696e.png) 
 
