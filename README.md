@@ -8,6 +8,8 @@ Here is a very simple wireframe for my portfolio built using [FigJam](https://ww
 
 Here is the link to the github [repo](https://github.com/AndresBo/Portfolio).
 
+Link to the [presentation](https://youtu.be/uCxJ6g-9zHw)
+
 Design inspiration for my portfolio website were taken from the following website:(https://web.archive.org/web/20190213060110/https://timmyomahony.com/)
 
 The website will have four main web pages: **home**, **contact**, **blog**, and **projects**. The website will use the same layout for all web pages, sharing the same header and footer. The **blog post page** links to individial blog post articles.
