@@ -3,6 +3,8 @@
 
 A personal portfolio website designed to present my skills and showcase my work. It was designed using **HTML** and vanilla **CSS**.
 
+Link to the [website](https://velvety-donut-a2896f.netlify.app/) using netlify
+
 Here is a very simple wireframe for my portfolio built using [FigJam](https://www.figma.com/file/m4qT6pQFJhMUwgO150SbAy/Portafolio-Website?node-id=0%3A1).
 <br>
 
