@@ -265,7 +265,8 @@ main {
 }
 
 .project__img {
-  border-radius: 1rem;
+  border-radius: 0.1rem;
+  
 }
 
 /* FOOTER */
