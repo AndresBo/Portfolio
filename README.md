@@ -3,14 +3,10 @@
 
 A personal portfolio website designed to present my skills and showcase my work. It was designed using **HTML** and vanilla **CSS**.
 
-Link to the [website](https://velvety-donut-a2896f.netlify.app/) using netlify
+Link to the [website](https://andres-borrero.netlify.app/) using netlify
 
 Here is a very simple wireframe for my portfolio built using [FigJam](https://www.figma.com/file/m4qT6pQFJhMUwgO150SbAy/Portafolio-Website?node-id=0%3A1).
 <br>
-
-Here is the link to the github [repo](https://github.com/AndresBo/Portfolio).
-
-Link to the [presentation](https://youtu.be/uCxJ6g-9zHw)
 
 Design inspiration for my portfolio website were taken from the following website:(https://web.archive.org/web/20190213060110/https://timmyomahony.com/)
 
@@ -66,7 +62,3 @@ https://fonts.google.com/specimen/Be+Vietnam+Pro?query=be+vietn
 
 ### Place holder blog post article ###
 ![image](https://user-images.githubusercontent.com/85352176/199697028-66af5ce9-bd85-4096-8558-307715574b75.png)
-
-
-
-
