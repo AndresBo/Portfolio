@@ -145,8 +145,10 @@ main {
 /* home page project showcase */
 .multi-project-container {
   display: flex;
-  flex-direction: grid;
-  flex-wrap: wrap;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: center;
   gap: 2rem;
   max-width: 1400px;
   margin-bottom: 3rem;
@@ -154,7 +156,11 @@ main {
 
 .single-project-container {
   margin-bottom: 2rem;
-  max-width: 400px;
+  max-width: 40rem;
+  border-color: black;
+  border-style: solid;
+  padding: 1rem;
+  
 }
 /* home page more about me */
 .more-about {
