@@ -160,6 +160,7 @@ main {
   border-color: black;
   border-style: solid;
   padding: 1rem;
+  border-radius: 0.5rem;
   
 }
 /* home page more about me */
